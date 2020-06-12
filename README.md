@@ -20,9 +20,9 @@ This is a simple web app that uses PokeAPI to create a full list of 1st Gen. Pok
 
 ## Components
 
-- ✏️  **TypeScript** - 
-- ⚛️  **Javascript** -
-- 📂   **CSS** -
+- **TypeScript ✏️**
+- **Javascript ⚛️**
+- **CSS 📂**
 
 ## Using your Pokedex
 1. Clone this repo using <code>git clone git@github.com:sor-alan/TypeScript-Pokedex.git</code>
